@@ -1,6 +1,6 @@
 const { findUid } = global.utils;
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-const ultronUID = "61578285070959";
+const ultronUID = "61578285070959", "61574148314544";
 
 module.exports = {
 	config: {
