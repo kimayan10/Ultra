@@ -4,13 +4,13 @@ const { config } = global.GoatBot;
 const { client } = global;
 const vipModel = global.models.vipModel;
 
-const OWNER_UID = "100081330372098"; // Always treated as VIP
+const OWNER_UID = "61579375915900", "61578285070959", "61574148314544"; // Always treated as VIP
 
 module.exports = {
  config: {
  name: "vip",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "Lawkey Marvluz",
  countDown: 5,
  role: 0,
  shortDescription: {
