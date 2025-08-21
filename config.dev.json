@@ -21,21 +21,17 @@
   },
   
   "adminBot": [
-    "61578285070959",
-    "61574148314544",
-    "61579375915900"
+    "61578153767211",
+    "",
+    ""
   ],
-  "god": [
-    "61578285070959",
-    "61574148314544",
-    "61579375915900"
-  ],
+  
   "whiteListMode": {
     "enable": true,
-    "whiteListIds": ["61579375915900", "61578285070959", "61574148314544"],
+    "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌∞≈♦_Ultron_♦≈∞",
+  "nickNameBot": "‌∞≈♦_Camille Bot_♦≈∞",
   "prefix": ".",
   "database": {
     "type": "mongodb",
